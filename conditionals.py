@@ -18,8 +18,7 @@ print('user input type',type (whatUsertyped))
 
 if whatUsertyped == "+":
     print('Doing addition')
-
-print('doing more addition')
+    print('doing more addition')
 
 
 if whatUsertyped == "-":
@@ -27,4 +26,12 @@ if whatUsertyped == "-":
     print('doing more substraction')
 
 
+
+print('-------------------')
+if whatUsertyped == "+":
+    print('Doing Addition')
+    if 'a' == 'b':
+        print('a is not b')
+    if 'b' == 'b':
+        print('b is b')
 
