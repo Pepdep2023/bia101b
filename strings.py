@@ -36,3 +36,4 @@ print(lower)
 print('String capitalize')
 capitalize = "hello there".capitalize()
 print(capitalize)
+
